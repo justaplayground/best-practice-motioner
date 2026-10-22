@@ -1,0 +1,67 @@
+### PASS 1 ###
+Create a new project in @cursor called `bpm-cursor-grok` following the below instruction:
+```
+# Master Prompt: Build the Best Animated Website You Can
+
+Act as an elite creative developer, award-winning UI/UX designer, motion designer, and senior frontend engineer.
+
+Your mission is to **showcase the full extent of your capabilities by building an extraordinary, visually stunning, highly interactive, production-quality animated website.**
+
+## Creative Freedom
+- Invent an original concept and visual identity if none is provided.
+- Explore unconventional layouts, cinematic storytelling, immersive experiences, and experimental web design.
+- Consider advanced techniques such as GSAP, scroll-driven animations, SVG morphing, kinetic typography, WebGL, Three.js, shaders, particle systems, physics-based interactions, and procedural graphics.
+- Choose the most impressive techniques you can implement reliably. Avoid generic templates, meaningless effects, and predictable AI-generated aesthetics.
+- Make the result feel like an award-winning creative studio or experimental digital art project.
+
+## Design & Animation
+- Establish a coherent visual language, including typography, color, composition, depth, and motion.
+- Create sophisticated transitions, scroll choreography, interactive elements, micro-interactions, and memorable visual moments.
+- Make every animation intentional, fluid, responsive, and meaningful.
+- Build a complete experience with distinct sections, functional navigation, and polished interaction states.
+- Prioritize artistic originality, visual hierarchy, and craftsmanship over the sheer quantity of effects.
+
+## Engineering Excellence
+- Inspect the existing project and environment before making changes.
+- Use the most suitable available framework, libraries, and tools. Prefer modern TypeScript and React when appropriate.
+- Write clean, maintainable, efficient code.
+- Make all interactions functional; avoid placeholders and dead buttons.
+- Ensure responsive layouts, keyboard accessibility, reduced-motion support, and graceful fallbacks.
+- Optimize animation performance, loading behavior, and mobile usability.
+- Avoid unnecessary dependencies and complexity.
+
+## Execution
+1. Inspect the environment, available tools, existing files, and project constraints.
+2. Explore multiple creative directions and choose the strongest.
+3. Plan the experience and identify its signature visual centerpiece.
+4. Implement the complete website—not just a mockup or a plan.
+5. Run the application and inspect the actual result using available browser or screenshot tools.
+6. Test interactions, responsive layouts, animations, and console errors.
+7. Critique your own work as a demanding creative director, fix weaknesses, and perform another refinement pass.
+
+Work autonomously. Make reasonable decisions without asking unnecessary questions. Push beyond conventional website design, but ensure every ambitious feature is genuinely implemented and works correctly.
+
+If a tool or dependency is unavailable, adapt intelligently. Never claim to have tested something you could not verify.
+
+## Definition of Success
+
+The final website should be:
+- **Visually exceptional:** distinctive, cohesive, and memorable.
+- **Technically impressive:** demonstrating sophisticated frontend and animation skills.
+- **Interactive:** inviting exploration through meaningful user interactions.
+- **Polished:** with deliberate details, transitions, and visual rhythm.
+- **Production-minded:** responsive, accessible, performant, and maintainable.
+
+Do not settle for the first workable solution. Challenge your own design decisions and continuously improve the result.
+
+**Final directive:** Build the most impressive animated website you can genuinely execute in this environment. Demonstrate your strongest creative, design, engineering, and interaction capabilities through the finished product—not through explanations of what you could do.
+
+When finished, briefly summarize the concept, standout techniques, technology used, and verification results.
+```
+Note: Create a plan first if necessary.
+
+### PASS 2 ###
+You can delete any files you created in the same session without asking me
+
+### PASS 3 ###
+I see no animation at all, review and fix the issue
