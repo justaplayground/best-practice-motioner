@@ -1,0 +1,34 @@
+Create a new project in @cursor called `bpm-cursor-sol5.6` following the below instruction:
+```
+## Kinetic Motion & Physical Interaction — Primary Design Priority
+
+Make **kinetic motion and physics-inspired interactions** the defining characteristic of the website. Prefer interfaces that feel alive, tangible, expressive, and physically responsive over static layouts with decorative animations.
+
+### Motion principles
+- **Inertia and momentum:** Elements accelerate, decelerate, overshoot, and settle naturally rather than stopping abruptly.
+- **Spring physics:** Use spring-based motion with carefully tuned stiffness, damping, and mass to create satisfying, organic movement.
+- **Elasticity and deformation:** Explore stretching, squashing, bending, wobbling, morphing, and elastic recovery where appropriate.
+- **Weight and gravity:** Give elements a convincing sense of mass, resistance, and gravitational influence.
+- **Drag and magnetic attraction:** Create tactile drag interactions, magnetic buttons, cursor attraction, and objects that follow the pointer with subtle lag.
+- **Fluid transitions:** Use continuous movement, momentum transfer, and spatial continuity between interface states.
+- **Stagger and choreography:** Let elements react in coordinated sequences with overlapping motion and carefully controlled timing.
+- **Kinetic typography:** Make text move, split, stretch, rotate, and respond to scrolling or pointer input without sacrificing readability.
+- **Scroll momentum:** Transform scrolling into an expressive experience through parallax, velocity-responsive effects, pinned sequences, and scroll-driven transformations.
+- **Secondary motion:** Add subtle follow-through, oscillation, and settling to make interactions feel believable.
+
+### Physics-inspired interaction
+Where appropriate, implement interactive elements that behave as if they exist in a physical space: draggable objects, elastic boundaries, spring-connected components, magnetic fields, fluid-like transitions, and momentum-based navigation.
+
+Use suitable tools such as GSAP, Motion for React, a physics engine, or custom spring calculations. Choose the simplest reliable approach for each effect.
+
+### Quality standards
+- Motion must respond to user input and communicate physical intent.
+- Tune easing, velocity, damping, and timing deliberately; avoid generic ease presets everywhere.
+- Balance responsiveness with smoothness. Avoid excessive latency, uncontrolled oscillation, and motion that makes navigation difficult.
+- Use restrained motion for secondary elements so signature interactions remain impactful.
+- Preserve accessibility, keyboard usability, reduced-motion preferences, and touch-device compatibility.
+- Do not fake physical behavior with random bouncing or apply springs to every element indiscriminately.
+
+**Priority:** When choosing between a conventional static interaction and a well-executed kinetic alternative, prefer the kinetic alternative whenever it improves the experience. Make physicality a coherent design language across the entire website—not a collection of disconnected animation tricks.
+```
+Note: Create a plan first if necessary. Do not need to add the reduced-motion behavior, we should show off your best skills.
